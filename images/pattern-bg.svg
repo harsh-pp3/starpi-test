@@ -1,0 +1,40 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 -80 700 400">
+  <circle cx="130.5" cy="95.5" r="10" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+  <circle cx="482.5" cy="276.5" r="21" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+  <circle cx="585.5" cy="237.5" r="21" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+  <line x1="140.5" y1="95.5" x2="325.5" y2="95.5" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+  <circle cx="214.5" cy="129.5" r="10" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+  <path d="M224.5,129.5l320-2s9-2,20,12c11.83,15.06,45,62,45,62h187" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+  <circle cx="675" cy="157" r="4.5" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+  <path d="M679.75,157.25l63.85-.4s1.8-.4,4,2.4c2.36,3,9,12.37,9,12.37h37.31" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+  <circle cx="615.6" cy="86.9" r="4.9" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+  <circle cx="655.5" cy="87.81" r="16" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+  <path d="M671.5,87.5l106.32-1.82s3-.69,6.6,3.92c3.88,5,14.73,20.44,14.73,20.44" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+  <line x1="620.5" y1="87.5" x2="639.5" y2="87.5" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+  <circle cx="672.25" cy="87.75" r="3.75" fill="#000000"/>
+  <circle cx="743.25" cy="156.75" r="3.75" fill="#000000"/>
+  <circle cx="639.25" cy="87.75" r="3.75" fill="#000000"/>
+  <line x1="585" y1="236.5" x2="796.5" y2="236.5" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+  <path d="M491.5,257V177.5s-1.44-24.4,12-30c12-5,23.24,17,23.24,17L584.26,237" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+  <line x1="325.5" y1="95.5" x2="469.5" y2="259.5" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+  <circle cx="628.46" cy="188.46" r="2.46" fill="#000000"/>
+  <circle cx="639.14" cy="188.46" r="2.46" fill="#000000"/>
+  <circle cx="649.81" cy="188.46" r="2.46" fill="#000000"/>
+  <circle cx="660.49" cy="188.46" r="2.46" fill="#000000"/>
+  <circle cx="671.16" cy="188.46" r="2.46" fill="#000000"/>
+  <circle cx="681.84" cy="188.46" r="2.46" fill="#000000"/>
+  <circle cx="692.51" cy="188.46" r="2.46" fill="#000000"/>
+  <circle cx="703.19" cy="188.46" r="2.46" fill="#000000"/>
+  <circle cx="713.86" cy="188.46" r="2.46" fill="#000000"/>
+  <circle cx="724.54" cy="188.46" r="2.46" fill="#000000"/>
+  <circle cx="399.83" cy="109.46" r="1.83" fill="#000000"/>
+  <circle cx="407.76" cy="109.46" r="1.83" fill="#000000"/>
+  <circle cx="415.68" cy="109.46" r="1.83" fill="#000000"/>
+  <circle cx="423.61" cy="109.46" r="1.83" fill="#000000"/>
+  <circle cx="431.54" cy="109.46" r="1.83" fill="#000000"/>
+  <circle cx="439.46" cy="109.46" r="1.83" fill="#000000"/>
+  <circle cx="447.39" cy="109.46" r="1.83" fill="#000000"/>
+  <circle cx="455.32" cy="109.46" r="1.83" fill="#000000"/>
+  <circle cx="463.24" cy="109.46" r="1.83" fill="#000000"/>
+  <circle cx="471.17" cy="109.46" r="1.83" fill="#000000"/>
+</svg>
